@@ -1,3 +1,22 @@
-name: Hank Quinlan, Horrible Cop
+# Site settings
+
+title: Kevin D. Burke
+email: kdburke@wisc.edu
+url: https://kdburke.github.io
+description: "Paleoecologist, Climate, and Data Scientist"
+
+# Color settings (hex-codes without the leading hash-tag)
+# color:
+#   primary-dark: '#b70101'
+#   primary-light: '#eee5c7'
+#   links: '#b70101'
+
+# Footer settings
+footer: Kevin D. Burke
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+permalink: pretty
+
+baseurl: ""
